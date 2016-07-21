@@ -1,0 +1,63 @@
+.masthead {
+  background-image: url(https://images.unsplash.com/photo-1442551382982-e59a4efb3c86?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=e131e5a1a12b40fca905f81eb90df89d);
+  background-size: cover;
+  padding: 1em 0;
+  margin-bottom: 0.1em;
+  margin-top: 0.1em;
+  background-position: 0px;
+}
+
+.masthead-heading {
+  /* Layout Declarations */
+  padding: 3em 0;
+  text-align: center;
+  position: relative;
+  bottom: 110px;
+  /* Appearance Declarations */
+  font-family: "Avenir";
+  color: white;
+  font-size: 68px;
+  letter-spacing: 0.07em;
+}
+
+section {
+  /* Layout Declarations */
+  padding-top: 1em;
+  text-align: center;
+  /* Appearance Declarations */
+  font-family: "Avenir";
+  color: black;
+  font-size: 1.1em;
+}
+
+.countries {
+  color: black;
+  font-size: 1em;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+footer {
+    /* Layout Declarations */
+  margin-bottom: 0.1em;
+  margin-top: 0.1em;
+  padding: 0.005em 0;
+    /* Appearance Rules */
+  background-image: url(https://images.unsplash.com/photo-1442551382982-e59a4efb3c86?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=e131e5a1a12b40fca905f81eb90df89d);
+  background-size: cover;
+  font-family: "Avenir";
+  text-align: center;
+}
+
+a {
+  text-decoration:none;
+}
+
+.social-media > li {
+  display: inline-block;
+}
